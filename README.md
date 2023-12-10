@@ -1,4 +1,10 @@
-NOTE: execute "npx mix watch" in terminal to use tailwind
+NOTE: - execute "npx mix watch" in terminal to use tailwind
+      - enable autoRoute CI4 :
+                                Enable Auto Routing (Legacy)
+                                Since v4.2.0, the auto-routing is disabled by default.
+                                To use it, you need to change the setting $autoRoute option to true in app/Config/Routing.php:
+
+                                $routes->setAutoRoute(true);
 
 # CodeIgniter 4 Application Starter
 
