@@ -1,3 +1,5 @@
+NOTE: execute "npx mix watch" in terminal to use tailwind
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
